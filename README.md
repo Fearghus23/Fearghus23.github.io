@@ -1,2 +1,2 @@
 # Fearghus23.github.io
-Repo man
+A portfolio repository reviewing my own personal coding without frameworks.
